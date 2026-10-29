@@ -173,3 +173,7 @@ h1 {
 padding: 10px;
 display: flex;
 }
+
+#Contacte h2 {
+    color: white;
+}
