@@ -6,22 +6,20 @@ body {
     margin: 0;
     padding: 0;
     color: #f2f2f2;
-    background-colour: #29263D;
+    background-color: #29263D;
     
 }
 
 nav.navbar {
     background-color: #C6F135;
+    padding: 15px;
 }
 .Programació,
 .activitatsf {
     background-color: #39334F;
 }
-/* Estils per a la navbar */
-nav {
-    background-color: #f8f9fa;
-    padding: 15px;
-}
+
+
 
 nav ul {
     list-style-type: none;
