@@ -182,6 +182,6 @@ display: flex;
 .carrusel .carousel-control-next {
     top: 0;
     bottom: 0;
-    height: 100%;
+    height: 50%;
     width: 15%;
 }
