@@ -178,13 +178,13 @@ display: flex;
     color: #ffffff;
 }
 nav .btn-outline-success {
-    background-color: #29263D;
-    border-color: #29263D;
-    color: white;
+    background-color: #29263D !important;
+    border-color: #29263D !important;
+    color: white !important;
 }
 
 nav .btn-outline-success:hover {
-    background-color: #39334F;
-    border-color: #39334F;
-    color: white;
+    background-color: #39334F !important;
+    border-color: #39334F !important;
+    color: white !important;
 }
