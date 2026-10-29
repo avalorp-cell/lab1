@@ -177,7 +177,14 @@ display: flex;
 #Contacte h2 {
     color: #ffffff;
 }
-nav .btn {
+nav .btn-outline-success {
     background-color: #29263D;
     border-color: #29263D;
+    color: white;
+}
+
+nav .btn-outline-success:hover {
+    background-color: #39334F;
+    border-color: #39334F;
+    color: white;
 }
