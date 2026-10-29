@@ -177,14 +177,17 @@ display: flex;
 #Contacte h2 {
     color: #ffffff;
 }
-nav .btn-outline-success {
+nav.navbar form button.btn-outline-success,
+nav.navbar form button.btn-outline-success:focus {
+    background: #29263D !important;
     background-color: #29263D !important;
-    border-color: #29263D !important;
-    color: white !important;
+    border: 1px solid #29263D !important;
+    color: #ffffff !important;
 }
 
-nav .btn-outline-success:hover {
+nav.navbar form button.btn-outline-success:hover {
+    background: #39334F !important;
     background-color: #39334F !important;
     border-color: #39334F !important;
-    color: white !important;
+    color: #ffffff !important;
 }
