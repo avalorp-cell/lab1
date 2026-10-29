@@ -177,3 +177,11 @@ display: flex;
 #Contacte h2 {
     color: #ffffff;
 }
+/* Posició de les fletxes del carrusel */
+.carrusel .carousel-control-prev,
+.carrusel .carousel-control-next {
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 15%;
+}
