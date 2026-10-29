@@ -19,8 +19,6 @@ nav.navbar {
     background-color: #39334F;
 }
 
-
-
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -138,6 +136,7 @@ button {
 justify-content: space-evenly;
 padding: 10px;
 display: flex;
+background-color: #39334F;
 }
 
 .activitats img {
