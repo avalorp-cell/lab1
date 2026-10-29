@@ -126,7 +126,7 @@ label,
     font-family: 'Inter', sans-serif;
 }
 
-button {
+.activitats button {
     width: 30%;
     height: 30%;
     border: none;
