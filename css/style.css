@@ -123,3 +123,9 @@ h1 {
  .card img {
     height: 225px;
  }
+/* Programació */
+.Programació {
+    justify-content: space-evenly;
+padding: 10px;
+display: flex;
+}
