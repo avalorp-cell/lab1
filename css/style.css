@@ -177,3 +177,7 @@ display: flex;
 #Contacte h2 {
     color: #ffffff;
 }
+nav .btn {
+    background-color: #29263D;
+    border-color: #29263D;
+}
