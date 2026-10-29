@@ -177,3 +177,15 @@ display: flex;
 #Contacte h2 {
     color: #ffffff;
 }
+/* Botó de cerca del menú */
+nav.navbar .btn-outline-success {
+    background-color: #29263D !important;
+    border-color: #29263D !important;
+    color: #ffffff !important;
+}
+
+nav.navbar .btn-outline-success:hover {
+    background-color: #39334F !important;
+    border-color: #39334F !important;
+    color: #ffffff !important;
+}
