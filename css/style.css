@@ -2,7 +2,7 @@
 
 /* Reset de marges i padding */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Inter, Arial, sans-serif;
     margin: 0;
     padding: 0;
     color: #f2f2f2;
@@ -71,6 +71,33 @@ p {
     color: #666;
 }
 
+h1, h2, h3,
+.card-title {
+    font-family: 'Montserrat', sans-serif, arial;
+    font-weight: 700;
+}
+/* 3. Menú de navegació */
+.navbar,
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .dropdown-item {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+/* 4. Títol principal del carrusel */
+.carousel-caption h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+/* 5. Subtítols del carrusel */
+.carousel-caption h4,
+.carousel-caption h5 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
 /* Estils per a carousel */
 .carrusel {
     width: 100%;
@@ -81,7 +108,20 @@ p {
     object-fit: cover;
 }
 /* Fi estils per a carousel */
-
+/* 6. Textos de les targetes */
+.card-text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+}
+/* 7. Formulari i botons */
+form,
+button,
+input,
+label,
+.btn {
+    font-family: 'Inter', sans-serif;
+}
 
 button {
     width: 30%;
