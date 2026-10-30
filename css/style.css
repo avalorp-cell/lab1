@@ -165,9 +165,7 @@ display: flex;
  height: 100%;
 }
 /* Estils per a títols i paràgrafs */
-h1 {
-    color: #333;
-}
+
  .card img {
     height: 225px;
  }
