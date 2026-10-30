@@ -66,7 +66,11 @@ nav ul li a:hover {
 }
 
 /* Estils per a títols i paràgrafs */
-h1, h2, h3 {
+h1 {
+    color: #29263D;
+}
+
+h2, h3 {
     color: #333;
 }
 
