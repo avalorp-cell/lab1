@@ -191,3 +191,7 @@ nav.navbar .btn-outline-success:hover {
     border-color: #39334F !important;
     color: #ffffff !important;
 }
+.títolprogramació h2 {
+    color: #ffffff;
+    margin-left: 50px
+}
